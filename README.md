@@ -1,6 +1,4 @@
-## Hi there 👋
 
-<!--
 # Hi there, I'm Atik Ahad 👋
 
 ## About Me
